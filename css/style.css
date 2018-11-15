@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|PT+Sans|Raleway');
 body {
 	width: 100%;
+	margin: auto;
+	min-width:600px;
+	max-width:2000px
 	background-color: snow;
 	color: rgba(0, 0, 0, .5);
 	font-family: Arial, sans-serif;
