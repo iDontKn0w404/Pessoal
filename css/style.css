@@ -1,6 +1,7 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css?family=Montserrat|PT+Sans|Raleway');
 body {
+	width: 100%;
 	background-color: snow;
 	color: rgba(0, 0, 0, .5);
 	font-family: Arial, sans-serif;
