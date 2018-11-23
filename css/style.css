@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|PT+Sans|Raleway');
 body {
 	width: 100%;
-	margin: auto;
-	min-width:600px;
-	max-width:2000px
+	margin: 0;
+	padding: 0;
+	height: 100%;
 	background-color: snow;
 	color: rgba(0, 0, 0, .5);
 	font-family: Arial, sans-serif;
@@ -16,7 +16,7 @@ div#interface {
 	margin: -10px auto 0px auto;
 }
 div#interface h3 {
-	width: 610px;
+	width: 51%;
 }
 div#interface h1 {
 	font-family: 'PT Sans', sans-serif;
@@ -38,9 +38,10 @@ div#interface h3 {
 	margin-top: 5px;
 	color: rgba(0,0,0,.3);
 }
+
 header#cabecalho img#eu {
-	width: 680px;
-	height: 693px;
+	width: 49%;
+	height: 100%;
 	position: absolute;
 	top: 0px;
 	right: 1px;
